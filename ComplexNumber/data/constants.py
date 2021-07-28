@@ -1,0 +1,11 @@
+INVALID_NUMBERS = "\tInvalid numbers !"
+NO_COMPLEX_NUMBERS = "\tThere are no complex numbers registered !"
+INVALID_OPTION = '\tInvalid option !'
+GOOD_BYE = '\tGood bye !'
+REAL_NUMBER = '\tReal number: '
+IMAGINARY_NUMBER = '\tImaginary number: '
+OPTION = '\tOption: '
+START = '\tStart: '
+END = '\tEnd: '
+UNDO_SUCCESS = '\tUndo with success'
+NO_UNDO_AVAILABLE = '\tNo undo available'
