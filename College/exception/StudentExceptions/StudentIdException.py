@@ -1,0 +1,2 @@
+class StudentIdException(Exception):
+    pass
